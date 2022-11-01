@@ -4,5 +4,5 @@ a=5
 b=4
 # Create a variable called 'answer'.
 answer=a*b
-# Find the multiplication of a and b then assign to 'answer'
+
 print(answer)
